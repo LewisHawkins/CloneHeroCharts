@@ -1,0 +1,23 @@
+﻿[Song]
+{
+  Name = "The Last Hangman"
+  Artist = "Hotel Lux"
+  Charter = "A Flying Whale"
+  Year = ", 2017"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Rock"
+  MusicStream = "song.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 120000
+}
+[Events]
+{
+}
